@@ -12,4 +12,5 @@ int main() {
 	big(13);
 	big((13 * 13 * 13 * 2));
 	printf("Okay done.\n\n");
+	return 0;
 }
