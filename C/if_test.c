@@ -14,4 +14,5 @@ int main() {
 	else {
 		printf("Congratulations! Right on target!");
 	}
+return 0;
 }
